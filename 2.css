@@ -1,0 +1,34 @@
+body {
+    background-color: white;
+}
+
+.title {
+    margin: 0;
+    margin-top: 40px;
+    margin-left: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.name {
+    margin: 0;
+    font-size: 70px;
+    font-weight: 700;
+    color: #00C77F;
+}
+
+.intro {
+    margin: 0;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.mockup {
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 36px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
